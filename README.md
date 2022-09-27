@@ -25,3 +25,8 @@
 ## Knowledge
 
 → save what I studied
+
+- Javascript
+    - [ES6](https://github.com/KmGun/TIL/blob/main/knowledge/ES6/ES6.md)
+- GIT
+    - [GIT_codingApple](https://github.com/KmGun/TIL/blob/main/knowledge/GIT/GIT.md)
