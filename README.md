@@ -21,3 +21,7 @@
 - Experience
     - Report my feelings of experiences associated with programming
     - Long-term plans
+
+## Knowledge
+
+→ save what I studied
