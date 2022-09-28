@@ -332,6 +332,7 @@
         
     - ES6 - class
         - 기본 사용법 , extends , super
+            ** constructor에는 return 주면 안된다.
             
             ```jsx
             class 할아버지기계 {
